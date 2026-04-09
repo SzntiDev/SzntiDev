@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center" style="border-bottom: none; margin-bottom: 0;">¡Hola! Soy Santiago Pérez <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="35" style="vertical-align: middle;"> </h1>
-<h3 align="center" style="color: #6a737d; border-bottom: none; font-weight: normal; margin-top: 5px; margin-bottom: 20px;">💻 IT Student | Junior Developer | 💻</h3>
+<h3 align="center" style="color: #6a737d; border-bottom: none; font-weight: normal; margin-top: 5px; margin-bottom: 20px;">💻 | Junior Developer | 💻</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hurlingham,%20Buenos%20Aires-Argentina-333?style=flat-square&logo=google-maps&logoColor=white" alt="Ubicación" style="vertical-align: middle;">
+  <img src="https://img.shields.io/badge/%20Buenos%20Aires-Argentina-333?style=flat-square&logo=google-maps&logoColor=white" alt="Ubicación" style="vertical-align: middle;">
 </p>
 
 <p align="center" style="max-width: 650px; margin: 0 auto; line-height: 1.6; font-size: 1.1em; color: #333;">
-Estudiante de informática apasionado por el desarrollo de software de bajo nivel y soluciones con IA. Actualmente enfocado en <b>Diskly</b>, una herramienta de análisis de disco de alto rendimiento en Python.
+Estudiante de informática apasionado por el desarrollo de software y soluciones con IA. Actualmente enfocado en <b>Diskly</b>, una herramienta de análisis de disco de alto rendimiento en Python.
 </p>
 
 <p align="center" style="margin-top: 25px; margin-bottom: 30px;">
@@ -23,8 +23,9 @@ Estudiante de informática apasionado por el desarrollo de software de bajo nive
 </p>
 
 <br>
-<hr style="border: 0; height: 1px; background: #eee;">
-<br>
+<p align="center">
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> 
+</p>
 
 <h2 align="center">🛠️ Stack de Tecnologías</h2>
 
@@ -57,19 +58,11 @@ Estudiante de informática apasionado por el desarrollo de software de bajo nive
   <img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=for-the-badge" alt="Antigravity">
 </p>
 
-<br>
-<hr style="border: 0; height: 1px; background: #eee;">
-<br>
-
-
-
-
-<hr style="border: 0; height: 1px; background: #eee;">
-<br>
-
+<p align="center">
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> 
+</p>
 
 <br>
-<p align="center" style="font-size: 0.8em; color: #888; border-top: 1px solid #eee; padding-top: 10px;">
-    <img src="mate.gif" alt="Banner Amanecer" width="30%" style="max-height: 250px; object-fit: cover; border-radius: 8px;">
-
+<p align="center" style="font-size: 0.8em; color: #888; padding-top: 10px;">
+    <img src="mate.gif" alt="Mate" width="30%" style="max-height: 250px; object-fit: cover; border-radius: 8px;">
 </p>
