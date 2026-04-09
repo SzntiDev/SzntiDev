@@ -10,7 +10,7 @@
 </p>
 
 <p align="center" style="max-width: 650px; margin: 0 auto; line-height: 1.6; font-size: 1.1em; color: #333;">
-Estudiante de informática apasionado por el desarrollo de software y soluciones con IA. Actualmente enfocado en <b>Diskly</b>, una herramienta de análisis de disco de alto rendimiento en Python.
+Estudiante de informática apasionado por el desarrollo de software y soluciones con IA. 
 </p>
 
 <p align="center" style="margin-top: 25px; margin-bottom: 30px;">
