@@ -33,7 +33,6 @@ Estudiante de informática apasionado por el desarrollo de software y soluciones
 <p align="center">
   <a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"></a>
-  <a href="https://en.cppreference.com/" target="_blank"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></a>
   <a href="https://www.php.net/docs.php" target="_blank"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
