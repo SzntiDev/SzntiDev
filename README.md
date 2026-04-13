@@ -23,10 +23,7 @@ Estudiante de informática apasionado por el desarrollo de software y soluciones
 </p>
 
 <br>
-<p align="center">
-<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> 
-</p>
-
+<p align="center"> <img src="barloading.gif" alt="barloading" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 8px;"> </p>
 <h2 align="center">🛠️ Stack de Tecnologías</h2>
 
 <h4 align="center">Lenguajes</h4>
@@ -57,10 +54,7 @@ Estudiante de informática apasionado por el desarrollo de software y soluciones
   <img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=for-the-badge" alt="Antigravity">
 </p>
 
-<p align="center">
-<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> 
-</p>
-
+<p align="center"> <img src="barloading.gif" alt="barloading" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 8px;"> </p>
 <br>
 <p align="center" style="font-size: 0.8em; color: #888; padding-top: 10px;">
     <img src="mate.gif" alt="Mate" width="30%" style="max-height: 250px; object-fit: cover; border-radius: 8px;">
