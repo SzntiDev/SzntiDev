@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" alt="Banner Amanecer" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 8px;">
+  <img src="banner2.gif" alt="Banner Amanecer" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 8px;">
 </p>
 
 <h1 align="center" style="border-bottom: none; margin-bottom: 0;">¡Hola! Soy Santiago Pérez <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="35" style="vertical-align: middle;"> </h1>
